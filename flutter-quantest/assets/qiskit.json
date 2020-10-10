@@ -1,0 +1,100 @@
+[
+    {
+        "1": "Bir kuantum bitinin ölçüm sonucunu saklamak için aşağıdakilerden hangisini kullanmamız gerekiyor?  " ,
+        "2": " Klasik-(c) ve Kuantum-(q) register’larını kullanarak bir kuantum devresini oluşturmak için hangi komutu kullanmamız lazım? ",
+        "3": " qc.x(q[0]) ifadesindeki x ne anlama geliyor?",
+        "4": "\nqc.measure(q,c)\nYukarıdaki kod ne işe yarar?  \n",
+        "5": "Controlled-NOT kapısını uygulamak için hangi komutu kullanmalısınız? " ,
+        "6": "Toffoli kapısını uygulamak için hangi komutu kullanmalısınız?",
+        "7": "\nq =  QuantumRegister(1,\"quantumreg\") \nc = ClassicalRegister(1,\"classicalreg\") \nqc = QuantumCircuit(q,c)\nqc.x(q[0]) \nqc.measure(q[0],c[0])\njob = execute(qc,Aer.get_backend('qasm_simulator'),shots=1024)\ncounts = job.result().get_counts(qc)\nprint(counts)\n\nYukarıdaki kod parçasının çıktısı ne olabilir?\n ",
+        "8": "\nqc.A(2*rotationAngle,q[0]) , rotation işlemini yapmak için A yerine ne gelmelidir? \n",
+        "9": "\n q =  QuantumRegister(1,\"quantumreg\") \nc = ClassicalRegister(1,\"classicalreg\") \nqc = QuantumCircuit(q,c)\nqc.h(q[0])\nqc.h(q[0])\nqc.measure(q[0],c[0])\njob = execute(qc,Aer.get_backend('qasm_simulator'),shots=10000)\ncounts = job.result().get_counts(qc)\nprint(counts)\n\nYukarıdaki kod parçasının çıktısı ne olabilir?\n " ,
+        "10": "job = execute(A, Aer.get_backend('qasm_simulator'), shots=B),\n\nLocal simülatörümüzde “ qc ” devresini 1000 kez çalıştırmak için A ve B yerine ne gelmelidir?\n"
+
+
+    },
+    {
+        "1": {
+            "a": "QuantumRegister",
+            "b": "ClassicalRegister",
+            "c": "Measure",
+            "d": "Measure(q[0])"
+
+        },
+        "2": {
+            "a": "qc = QuantumRegister(2, “regq”)",
+            "b": "qc = QuantumCircuit(q,c)",
+            "c": "q = QuantumRegister(q,c)",
+            "d": "qc = QuantumCircuit(c,q)"
+        },
+        "3": {
+            "a": "Draw the qc Qubit",
+            "b": "IDENTITY",
+            "c": "NOT",
+            "d": "HADAMARD"
+        },
+        "4": {
+
+            "a": "C’yi ölçüp sonucu q’da saklar.",
+            "b": "qc’yi ölçüp sonucu q sonra c’de saklar.",
+            "c": "Devreye NOT kapısı uygular.",
+            "d": "Q’yü ölçüp sonucu c’de saklar."
+        },
+        "5": {
+
+            "a": "c",
+            "b": "h",
+            "c": "ccx",
+            "d": "cx"
+        },
+        "6": {
+
+            "a": "ccx",
+            "b": "x",
+            "c": "cx",
+            "d": "execute"
+        },
+        "7": {
+
+            "a": "{'1': 100}",
+            "b": "{'100': 10024}",
+            "c": "{'10': 1024}",
+            "d": "{'1': 1024}"
+        },
+        "8": {
+
+            "a": "ccx",
+            "b": "ry",
+            "c": "x",
+            "d": "drawRotate"
+        },
+        "9": {
+
+            "a": "{'0': 10000}",
+            "b": "{'1': 10000}",
+            "c": "{'10': 1024}",
+            "d": "{'100': 1024}"
+        },
+        "10": {
+
+            "a": "A=1000, B=qc",
+            "b": "A=execute, B=qc",
+            "c": "A=execute, B=1000",
+            "d": "A=qc, B=1000"
+        }
+
+    },
+    {
+        "1": "ClassicalRegister",
+        "2": "qc = QuantumCircuit(q,c)  ",
+        "3": "NOT",
+        "4": "Q’yü ölçüp sonucu c’de saklar.",
+        "5": "cx",
+        "6": "ccx",
+        "7": "{'1': 1024}",
+        "8": "ry",
+        "9": "{'0': 10000}",
+        "10": "A=qc, B=1000"
+
+    }
+]
