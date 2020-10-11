@@ -11,6 +11,7 @@ KTHACK2020 kapsamında QUANTEAM ekibi olarak hazırladığımız Flutter uygulam
 <img src="https://raw.githubusercontent.com/onursercanyilmaz/KTHACK2020/main/flutter-quantest/secreenshots/test.png" width="200" heigth="400"
 /><img src="https://raw.githubusercontent.com/onursercanyilmaz/KTHACK2020/main/flutter-quantest/secreenshots/yenilgi.png" width="200" heigth="400"
 /><img src="https://raw.githubusercontent.com/onursercanyilmaz/KTHACK2020/main/flutter-quantest/secreenshots/orta.png" width="200" heigth="400"
+/><img src="https://raw.githubusercontent.com/onursercanyilmaz/KTHACK2020/main/flutter-quantest/secreenshots/basari.png" width="200" heigth="400"
+/><img src="https://raw.githubusercontent.com/onursercanyilmaz/KTHACK2020/main/flutter-quantest/secreenshots/about.png" width="200" heigth="400"
 />
-
 
