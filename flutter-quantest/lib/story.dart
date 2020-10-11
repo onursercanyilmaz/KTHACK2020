@@ -54,7 +54,7 @@ class _storyPageState extends State<storyPage> {
               children: [
                 Center(
                   child: Text(
-                    "Kuantum çekirdeğini ele geçirmek\n isteyen Manyetikler, gücünü \n kuatum çekirdeğinden alan \n QuanTest'i işgal etmişti.\n \n Dr. Quantum'un gezegeni\n kurtarmak için yapması gerekense\n testleri geçip\ngezegeni ve çekirdeği düşmanın elinden kurtarmalıydı.   ",
+                    "Kuantum çekirdeğini ele geçirmek\n isteyen Manyetikler, gücünü \n kuatum çekirdeğinden alan \n QuanTest'i işgal etmişti.\n \n Dr. Quantum'un gezegeni\n kurtarmak için yapması gerekense\n testleri geçip\ngezegeni ve çekirdeği düşmanın elinden kurtarmaktı   ",
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       fontFamily: "Quando",

@@ -1,100 +1,100 @@
 [
   {
-    "1": "\tAşağıdakilerden hangisi tek kübit üzerinde etkili olan bir kapı değildir?  " ,
-    "2": "______ , bir veya daha fazla kübitin bazı işlemler için kontrol görevi gördüğü 2 veya daha fazla kübit üzerinde hareket eder. Yukarıdaki tanımda boşluğa hangisi gelebilir?",
-    "3": "____________ , bazı tuzak iyon kuantum bilgisayarlarda yerel olarak uygulanan 2 kübitlik bir geçittir. Yukarıdaki tanımda boşluğa hangisi gelebilir?",
-    "4": "Kuantum Mantık Kapıları hangi matrislerle ifade edilir?",
-    "5": "Herhangi bir uygulanabilir kuantum hesaplamanın elde edilebilmesi için, bir devrenin inşa edilebildiği _______ adı verilen benzersiz bir üç kübit kuantum kapısı vardır. Yukarıdaki boşluğa hangisi gelebilir? " ,
-    "6": "Aşağıdakilerden hangisi bir Kuantum Mantık Kapısı değildir?",
-    "7": "Aşağıdakilerden hangisi bir Kuantum Mantık Kapısıdır? ",
-    "8": "\nI. Tek kapılı bir evrensel kuantum kapı seti, üç kübitli Deutsch kapısı kullanılarak da formüle edilebilir.\n\tII. İki kuantum geçidinin tensör ürünü (veya kronecker ürünü), paralel iki kapıya eşit olmayan kapıdır. \nYukarıda verilenlerden hangisi yada hangileri doğrudur? \n",
-    "9": "Az sayıda kübit üzerinde çalışan temel kuantum devresi nedir? " ,
-    "10": "I.Tüm kuantum kapıları ters çevirilebilir.\nII. İstenen herhangi bir kapı, jeneratör setinden oldukça kısa bir kapı dizisi ile yaklaştırılabilir.\nYukarıda verilenlerden hangisi yada hangileri doğrudur? \n"
+    "1": "\nBilgisayım işlemlerini kuantum fiziği temellerine dayalı olarak yapan ve bu sayede klasik bilgisayarların ulaşamayacağı işlem gücüne ulaşabileceği varsayılan sistemlere ne ad verilir?  " ,
+    "2": "\n______, güvenli iletişim için kuantum mekaniğini kullanır. Gizli dinleyicilerin şifrelenmiş iletilerin içeriğini okumasını önlemek için değişik matematik  teknikleri kullanan geleneksel şifrelemenin aksine, kuantum şifreleme, bilginin/verinin fiziğini temel alır.\n Boşluğa aşağıdakilerden hangisi gelmelidir? " ,
+    "3": "\n Portfolyo optimizasyonlarında, nakit akış tahminlemelerinde, risk yönetiminde varlıkların dağılımı gibi her yeni parametreyle birlikte kombinasyonların üssel olarak arttığı problemlerde piyasaya gerçek zamanlı tepki vermeyi sağlayacağı öngörülen kuantum alanı hangisidir?",
+    "4": "\n Daha fazla güvenlik ve klasik olanına göre qubitler sayesinde daha fazla bant alanına sahip olacak olan, hacklenebilmesi için kuantum bilgisi gerektiren alan nedir?",
+    "5": "\n Kuantum dolaşıklıktan yararlanarak çok hızlı bir biçimde vektörleri iki kategoriden birine koyma yeteneği olan kuantum bilgisayım ile hangi alanda daha hızlı sinir ağları hayata geçirilebilir?. " ,
+    "6": "\n Kuantum dolaşıklıktan yararlanarak çok hızlı bir biçimde vektörleri iki kategoriden birine koyma yeteneği olan kuantum bilgisayım ile hangi alanda daha hızlı sinir ağları hayata geçirilebilir?. " ,
+    "7": "\n______, güvenli iletişim için kuantum mekaniğini kullanır. Gizli dinleyicilerin şifrelenmiş iletilerin içeriğini okumasını önlemek için değişik matematik  teknikleri kullanan geleneksel şifrelemenin aksine, kuantum şifreleme, bilginin/verinin fiziğini temel alır.\n Boşluğa aşağıdakilerden hangisi gelmelidir? " ,
+    "8": "\n Aşağıdakilerden Kuantum makine öğrenimi ile hızlandırılabilen mevcut makine öğrenimi süreçlerinden biri değildir? \n",
+    "9": "\n Kuantum Bilgisayarlarda veri saklama şekli aşağıdakilerden hangisidir?" ,
+    "10": "\n ____ , bir parçacığın kuantum durumunun aynı anda farklı durumlarda olabilmesi anlamına geliyor. \n Boşluğa gelmesi gereken terim hangisidir?"
 
 
   },
   {
     "1": {
-      "a": "Hadamard Gate",
-      "b": "Pauli X Gate",
-      "c": "Pauli Z Gate",
-      "d": "SWAP Gate"
+      "a": "Isletim sistemi",
+      "b": "Kuantum bilgisayarlar",
+      "c": "Compiler",
+      "d": "Programlama dili"
 
     },
     "2": {
-      "a": "Controlled Gates",
-      "b": "Phase Shift Gate",
-      "c": "Pauli Z Gate",
-      "d": "Hadamard Gate"
+      "a": "Kuantum antivirüs",
+      "b": "Kauntum makine ögrenmesi",
+      "c": "Kuantum sifreleme",
+      "d": "Kuantum fizigi"
     },
     "3": {
-      "a": "Ising (XX) Coupling Gate",
-      "b": "Hadamard Gate",
-      "c": "Deutsch Gate",
-      "d": "Controlled Gates"
+      "a": "Kuantum informatik",
+      "b": "Kuantum kimya",
+      "c": "Kuantum finans",
+      "d": "Kuantum internet"
     },
     "4": {
 
-      "a": "Orthogonal Matrix",
-      "b": "Hermitian Matrix",
-      "c": "Unitary Matrix",
-      "d": "Symplectic Matrix"
+      "a": "Kuantum antivirüs",
+      "b": "Genel görelilik",
+      "c": "Kuantum kimya",
+      "d": "Kuantum internet"
     },
     "5": {
 
-      "a": "Pauli X Gate",
-      "b": "Controlled Gates",
-      "c": "Deutsch Gate",
-      "d": "Phase Shift Gate"
+      "a": "Kuantum makine ögrenmesi",
+      "b": "Kuantum finans",
+      "c": "Kuantum borkod",
+      "d": "Kuantum internet "
     },
     "6": {
 
-      "a": "Pauli Y Gate",
-      "b": "Deutsch Gate",
-      "c": "Spanish Gate",
-      "d": "Controller Gates"
+      "a": "Kuantum makine ögrenmesi",
+      "b": "Kuantum finans",
+      "c": "Kuantum borkod",
+      "d": "Kuantum internet "
     },
     "7": {
 
-      "a": "Reproductive Gate",
-      "b": "Electron Gate",
-      "c": "ASAP Gate",
-      "d": "Phase Shift Gate"
+      "a": "Kuantum antivirüs",
+      "b": "Kauntum makine ögrenmesi",
+      "c": "Kuantum sifreleme",
+      "d": "Kuantum fizigi"
     },
     "8": {
 
-      "a": " Yalnız I",
-      "b": "Yalnız II",
-      "c": "Hepsi",
-      "d": "Hiçbiri"
+      "a": "Doğrusal cebir",
+      "b": "Optimizasyon ",
+      "c": "Süperpozisyon",
+      "d": "Derin ögrenme"
     },
     "9": {
 
-      "a": "Reversible Circuit",
-      "b": "Quantum Logic Gate",
-      "c": "Logic Synthesis Circuit",
-      "d": "Sensible Gate"
+      "a": "Elektron spini yönünde kuantum bit bazlıdır.",
+      "b": "Veri saklama bit bazlıdır.",
+      "c": "Elektron spininin ters yönünde kuantum bit bazlıdır.",
+      "d": "Kuantum bilgisayarlarda veri saklanamaz."
     },
     "10": {
 
-      "a": "Yalnız I",
-      "b": "Yalnız II",
-      "c": "Hepsi",
-      "d": "Hiçbiri"
+      "a": "Grover algoritması",
+      "b": "Süperpozisiyon prensibi",
+      "c": "Kuantum ML",
+      "d": "Klasik ML"
     }
 
   },
   {
-    "1": "SWAP Gate",
-    "2": "Controlled Gates",
-    "3": "Ising (XX) Coupling Gate",
-    "4": "Unitary Matrix",
-    "5": "Deutsch Gate",
-    "6": "Spanish Gate",
-    "7": "Phase Shift Gate",
-    "8": "Yalnız I",
-    "9": "Quantum Logic Gate",
-    "10": "Hepsi"
+    "1": "Kuantum bilgisayarlar",
+    "2": "Kuantum sifreleme",
+    "3": "Kuantum finans",
+    "4": "Kuantum internet",
+    "5": "Kuantum makine ögrenmesi",
+    "6": "Kuantum makine ögrenmesi",
+    "7": "Kuantum sifreleme",
+    "8": "Süperpozisyon",
+    "9": "Elektron spini yönünde kuantum bit bazlıdır.",
+    "10": "Süperpozisiyon prensibi"
 
   }
 ]

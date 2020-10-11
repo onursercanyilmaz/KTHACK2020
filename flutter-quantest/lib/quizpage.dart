@@ -22,7 +22,7 @@ class getjson extends StatelessWidget {
       assettoload = "assets/quantumgates.json";
     } else if (langname == "Qiskit") {
       assettoload = "assets/qiskit.json";
-    } else if (langname == "Kuantum Makine Öğrenmesi") {
+    } else if (langname == "Kuantum Çalışma Alanları") {
       assettoload = "assets/qml.json";
     }
   }
@@ -45,9 +45,11 @@ class getjson extends StatelessWidget {
             child: Center(
               child: OutlineButton(
                 onPressed: () {
-                  Navigator.of(context).pushReplacement(MaterialPageRoute(
-                    builder: (context) => homepage(),
-                  ));
+                  Navigator.of(context).pushReplacement(
+                    MaterialPageRoute(
+                      builder: (context) => homepage(),
+                    ),
+                  );
                 },
                 child: Container(
                   height: 150.0,

@@ -54,7 +54,7 @@ class _aboutPageState extends State<aboutPage> {
               children: [
                 Center(
                   child: Text(
-                    "QuanTest, QTurkey'in düzenlemiş olduğu KTHACK 2020 kapsamında QUANTEAM ekibi tarafından hazırlanmıştır. Amacı Kuantum teknolojilerini insanlara daha iyi öğretip tanıtabilmek ve akılda kalıcı olmasını sağlamaktır.\n \nEkip Üyeleri:\n\n Onur Sercan Yılmaz\nMohamed Elazab\nDeniz Altınok\n Aysu Demir ",
+                    "QuanTest, QTurkey'in düzenlemiş olduğu KTHACK 2020 kapsamında QUANTEAM ekibi tarafından hazırlanmıştır. Amacı Kuantum teknolojilerini insanlara daha iyi öğretip tanıtabilmek ve akılda kalıcı olmasını sağlamaktır.\n \nEkip Üyeleri:\n\n Onur Sercan Yılmaz\nMohamed Elazab\nDeniz Altınok\n ",
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       fontFamily: "Quando",

@@ -22,9 +22,9 @@ class _homepageState extends State<homepage> {
 
   List<String> des = [
     "QuanTest Hikayesi\n",
-    "Kuantum Matık Kapıları\n",
-    "Qiskit\n",
-    "Quantum Makine Öğrenmesi\n",
+    "Mantıksal devre tasarımında bulunan klasik kapılara alternatiftir. Amaç, elektronik devrelerin karar mekanizmasında quantum teknolojisini kullanmaktır.\n",
+    "Kuantum programları oluşturmak ve degistirmek ve bunları kuantum cihazlarında veya yerel bir bilgisayardaki simülatörlerde çalıstırmak için araçlar saglar.\n",
+    "Kuantum teknolojisini barındıran prensipler ve alanlar\n",
     "QuanTeam\n",
   ];
 
@@ -157,7 +157,7 @@ class _homepageState extends State<homepage> {
             ),
             customcard("Quantum Mantık Kapıları", images[1], des[1]),
             customcard("Qiskit", images[2], des[2]),
-            customcard("Kuantum Makine Öğrenmesi", images[3], des[3]),
+            customcard("Kuantum Çalışma Alanları", images[3], des[3]),
             OutlineButton(
               onPressed: () {
                 Navigator.of(context).pushReplacement(MaterialPageRoute(
